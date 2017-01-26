@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/PR4_3.iml" filepath="$PROJECT_DIR$/PR4_3.iml" />
+      <module fileurl="file:$PROJECT_DIR$/../../../../../..////CS1/students/2020/douellette20/AndriodProjects/PR4_3/PR4_3.iml" filepath="CS1/..////CS1/students/2020/douellette20/AndriodProjects/PR4_3/PR4_3.iml" />
+      <module fileurl="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:$PROJECT_DIR$/../../../../../..////CS1/students/2020/douellette20/AndriodProjects/PR4_3/app/app.iml" filepath="CS1/..////CS1/students/2020/douellette20/AndriodProjects/PR4_3/app/app.iml" />
+    </modules>
+  </component>
+</project>
